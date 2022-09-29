@@ -2,8 +2,6 @@
 Copyright (C) 2021 Vishal Yadav
 '''
 import xlsxwriter
-from collections import Counter
-from collections import OrderedDict
 
 f1 = open("NMEA.txt","a+")
 f2 = open("NMEA_converted.txt","a+")
